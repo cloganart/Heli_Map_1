@@ -7,4 +7,4 @@ This is a project to fully remake Ultimate Alliance 1 from 2006 to Unreal Engine
 
 ![Captain America](https://github.com/JordanLeich/Ultimate-Alliance-UE5-Remake/blob/master/Preview/Captain%20America)
 
-![Overview](https://github.com/JordanLeich/Ultimate-Alliance-UE5-Remake/blob/master/Preview/Overview)
+![Overview](https://github.com/JordanLeich/Ultimate-Alliance-UE5-Remake/blob/master/Preview/Overview.png)
